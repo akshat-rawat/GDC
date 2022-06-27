@@ -1,0 +1,18 @@
+[submodule "students"]
+	path = students
+	url = https://github.com/akshat-rawat/students.git
+[submodule "GDC-Level-2-Milestone"]
+	path = GDC-Level-2-Milestone
+	url = https://github.com/akshat-rawat/GDC-Level-2-Milestone.git
+[submodule "GDC-Level-3-Milestone"]
+	path = GDC-Level-3-Milestone
+	url = https://github.com/akshat-rawat/GDC-Level-3-Milestone.git
+[submodule "GDC-Level-4-Milestone"]
+	path = GDC-Level-4-Milestone
+	url = https://github.com/akshat-rawat/GDC-Level-4-Milestone.git
+[submodule "GDC-Level-5-Milestone"]
+	path = GDC-Level-5-Milestone
+	url = https://github.com/akshat-rawat/GDC-Level-5-Milestone.git
+[submodule "GDC-Level-6-Milestone"]
+	path = GDC-Level-6-Milestone
+	url = https://github.com/akshat-rawat/GDC-Level-6-Milestone.git
